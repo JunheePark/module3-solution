@@ -6,7 +6,7 @@ body {
 }
 
 #header-nav {
-    background-color: #c98715;
+    background-color: #F5F6CE;
     border-radius: 0;
     border: 0;
 }
@@ -16,7 +16,7 @@ body {
 }
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-    background-color: #fce29e;
+    background-color: #04B486;
 }
 
 .navbar-collapse {
@@ -38,11 +38,11 @@ body {
 
 .navbar-brand a:hover {
     text-decoration: none;
-    text-shadow: 1px 1px 1px #fe9797;
+    text-shadow: 1px 1px 1px #CEECF5;
 }
 
 #nav-list {
-    background-color: #e4af34;
+    background-color: #58ACFA;
 }
 
 #nav-list a {
@@ -54,7 +54,7 @@ body {
 
 #nav-list a:hover {
     color: #202020;
-    background-color: #fce29e;
+    background-color: #CEECF5;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
